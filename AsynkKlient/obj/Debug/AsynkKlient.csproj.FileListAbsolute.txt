@@ -1,0 +1,10 @@
+C:\Users\salih\source\repos\AsynkKlient\AsynkKlient\bin\Debug\AsynkKlient.exe.config
+C:\Users\salih\source\repos\AsynkKlient\AsynkKlient\bin\Debug\AsynkKlient.exe
+C:\Users\salih\source\repos\AsynkKlient\AsynkKlient\bin\Debug\AsynkKlient.pdb
+C:\Users\salih\source\repos\AsynkKlient\AsynkKlient\obj\Debug\AsynkKlient.csproj.AssemblyReference.cache
+C:\Users\salih\source\repos\AsynkKlient\AsynkKlient\obj\Debug\AsynkKlient.Form1.resources
+C:\Users\salih\source\repos\AsynkKlient\AsynkKlient\obj\Debug\AsynkKlient.Properties.Resources.resources
+C:\Users\salih\source\repos\AsynkKlient\AsynkKlient\obj\Debug\AsynkKlient.csproj.GenerateResource.cache
+C:\Users\salih\source\repos\AsynkKlient\AsynkKlient\obj\Debug\AsynkKlient.csproj.CoreCompileInputs.cache
+C:\Users\salih\source\repos\AsynkKlient\AsynkKlient\obj\Debug\AsynkKlient.exe
+C:\Users\salih\source\repos\AsynkKlient\AsynkKlient\obj\Debug\AsynkKlient.pdb
